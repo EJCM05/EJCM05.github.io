@@ -1,8 +1,6 @@
 export default defineNuxtConfig({
   compatibilityDate: '2025-07-15',
   devtools: { enabled: true },
-  
-  // AÑADE ESTO AQUÍ
   app: {
     head: {
       link: [
@@ -19,7 +17,12 @@ export default defineNuxtConfig({
           integrity: 'sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz',
           crossorigin: 'anonymous'
         }
-      ]
+      ],
+    }
+  },
+  runtimeConfig: {
+    public: {
+      githubUsername: process.env.NUXT_PUBLIC_GITHUB_USERNAME || 'EJCM05'
     }
   }
 })

@@ -11,6 +11,7 @@ import TerminalWindows from '@/components/TerminalWindows.vue';
 </script>
 
 <style>
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.13.1/font/bootstrap-icons.min.css");
 /* Estilos globales para el body y el contenedor principal */
 body {
   background-color: #111;
