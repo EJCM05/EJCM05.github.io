@@ -1,4 +1,5 @@
 <template>
+    <NuxtLink to="/" class="cli-button"><i class="bi bi-arrow-left-short"></i></NuxtLink>
     <div class="about-page mt-4">
         <p class="cli-command mb-2">$ EJCM@root</p>
         <div class="typewriter-container">
@@ -17,7 +18,7 @@
                     </span> Python (Django, DRF, FastApi), JavaScript, Vue.js, Bash, Nuxt.
                 </p>
                 <p class="section-content">
-                    <span class="green-text">Bases de Datos:</span> PostgreSQL, SQLite [cite_start], IncoDB.
+                    <span class="green-text">Bases de Datos:</span> PostgreSQL, SQLite, IncoDB.
                 </p>
                 <p class="section-content">
                     <span class="green-text">Herramientas:</span> Git (GitHub), VS Code, Trello (Kanban), npm,

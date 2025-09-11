@@ -43,6 +43,7 @@
         </li>
         <li>[05] <span @click="showHelp" class="cli-option clickable">Ayuda (MAN)</span></li>
         <li>[06] <span @click="showCredits" class="cli-option clickable">Créditos (CAT /ETC/CREDITS)</span></li>
+        <li>[07] <a href="/EJCM.pdf" download="EJCM.pdf" class="cli-option clickable">Descargar CV (Download)</a></li>
       </ul>
 
       <div v-if="showingHelp" class="help-output">
