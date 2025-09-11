@@ -1,75 +1,50 @@
-# Nuxt Minimal Starter
+# 💻 Portafolio de Desarrollador Web
 
-Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+¡Bienvenido a mi portafolio digital! Este proyecto es un reflejo de mis habilidades y experiencia como desarrollador web Fullstack.
 
-## Setup
+Este portafolio está diseñado con una interfaz inspirada en una terminal de línea de comandos, ofreciendo una experiencia de usuario única y minimalista.
 
-Make sure to install dependencies:
+## 🚀 Características
 
-```bash
-# npm
-npm install
+* **Interfaz de Terminal Interactiva:** Navegación por el sitio web como si estuvieras en una consola.
+* **Sección "Sobre Mí":** Una biografía con efecto de máquina de escribir que simula el comando `man whoami`.
+* **Proyectos Dinámicos:** Muestra una lista actualizada y automática de mis repositorios públicos de GitHub, obtenida directamente a través de la API de GitHub.
+* **Formulario de Contacto:** Un formulario funcional que simula el envío de un correo electrónico, sin necesidad de un backend propio, gracias a la integración con EmailJS.
+* **Descarga de CV:** Un enlace directo para descargar mi currículum en formato PDF.
 
-# pnpm
-pnpm install
+## 🛠️ Tecnologías Utilizadas
 
-# yarn
-yarn install
+* **Frontend:** Vue.js y Nuxt.
+* **Lenguajes:** Python (Django, DRF, FastAPI), JavaScript, Bash.
+* **Bases de Datos:** PostgreSQL, SQLite, IncoDB.
+* **Herramientas:** Git (GitHub), VS Code, Trello, npm, Capacitor, Vite.
+* [cite_start]**Cloud & Servicios:** AWS-S3, Render, Supabase, Vercel.
 
-# bun
-bun install
-```
+## ⚙️ Cómo Ejecutar el Proyecto
 
-## Development Server
+1.  Clona este repositorio:
+    ```bash
+    git clone [https://github.com/EJCM05/EJCM05.github.io.git](https://github.com/EJCM05/EJCM05.github.io.git)
+    ```
+2.  Instala las dependencias:
+    ```bash
+    npm install
+    ```
+3.  Ejecuta el servidor de desarrollo:
+    ```bash
+    npm run dev
+    ```
 
-Start the development server on `http://localhost:3000`:
+## 🌐 Despliegue en Vivo
 
-```bash
-# npm
-npm run dev
+El portafolio está desplegado y alojado en **GitHub Pages**.
 
-# pnpm
-pnpm dev
+**[Visita el portafolio aquí](https://ejcm05.github.io/)**
 
-# yarn
-yarn dev
+---
 
-# bun
-bun run dev
-```
+### Creado por
 
-## Production
-
-Build the application for production:
-
-```bash
-# npm
-npm run build
-
-# pnpm
-pnpm build
-
-# yarn
-yarn build
-
-# bun
-bun run build
-```
-
-Locally preview production build:
-
-```bash
-# npm
-npm run preview
-
-# pnpm
-pnpm preview
-
-# yarn
-yarn preview
-
-# bun
-bun run preview
-```
-
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+**Eber J Colmenares M**
+* [cite_start]**Email:** ebercolmenares_11@hotmail.com
+* [cite_start]**GitHub:** [https://github.com/EJCM05](https://github.com/EJCM05) 
