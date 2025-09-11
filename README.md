@@ -37,9 +37,9 @@ Este portafolio está diseñado con una interfaz inspirada en una terminal de l�
 
 ## 🌐 Despliegue en Vivo
 
-El portafolio está desplegado y alojado en **GitHub Pages**.
+El portafolio está desplegado y alojado en **Vercel**.
 
-**[Visita el portafolio aquí](https://ejcm05.github.io/)**
+**[Visita el portafolio aquí](https://ejcm-portafolio.vercel.app/)**
 
 ---
 
