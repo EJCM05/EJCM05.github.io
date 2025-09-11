@@ -21,8 +21,7 @@
   border: 2px solid #0F0;
   /* Borde verde brillante, como la imagen */
   border-radius: 8px;
-  width: 100%;
-  max-width: 90%;
+  max-width: 95%;
   margin: 40px auto;
   box-shadow: 0 0 20px rgba(0, 255, 0, 0.7);
   /* Glow verde más intenso */
